@@ -33,7 +33,8 @@ Este aplicativo Python permite que os usuários selecionem diferentes Pokémon a
 
 - **Visualização Inicial Pikachu**
 
-  ![Visualização Inicial](imagens/pikatcu-3D.png)
+  ![WhatsApp Image 2025-03-25 at 14 25 11](https://github.com/user-attachments/assets/c7976fbd-596e-4bb1-8ac3-640894d64f37)
+
 
 ## 🛠️ Uso
 
